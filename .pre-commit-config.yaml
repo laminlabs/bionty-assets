@@ -39,7 +39,7 @@ repos:
       - id: nbstripout
         exclude: |
           (?x)(
-              docs/examples/|
+              docs/notes/|
               docs/ingest/
           )
   - repo: https://github.com/Lucas-C/pre-commit-hooks
