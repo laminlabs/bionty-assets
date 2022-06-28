@@ -15,8 +15,8 @@ The organization roughly follows [diataxis](https://diataxis.fr/):
 
 tutorial/index
 guides/index
-tasks/index
-examples/index
+ingest/index
+notes/index
 api
 changelog
 ```

@@ -22,6 +22,8 @@ dev = [
 test = [
     "pytest>=6.0",
     "nbmake",
+    "pronto",
+    "owlready2",
 ]
 
 [tool.black]

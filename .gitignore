@@ -1,3 +1,5 @@
+*.json
+
 # macOS
 .DS_Store
 .AppleDouble
