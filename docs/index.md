@@ -13,10 +13,11 @@ The organization roughly follows [diataxis](https://diataxis.fr/):
 :maxdepth: 1
 :hidden:
 
-tutorial/index
+tutorials/index
 guides/index
 ingest/index
 notes/index
+examples/index
 api
 changelog
 ```
