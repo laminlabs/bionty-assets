@@ -107,3 +107,6 @@ _build
 docs/bionty_assets.*
 lamin_sphinx
 docs/conf.py
+
+# data
+*.feather
