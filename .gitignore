@@ -1,5 +1,5 @@
 *.json
-
+_docs_tmp*
 # macOS
 .DS_Store
 .AppleDouble
