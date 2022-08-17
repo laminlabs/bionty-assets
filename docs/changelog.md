@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | User | Date | Patch
 --- | --- | --- | --- | ---
+🍱 Added the `Gene Synonym` column | [7](https://github.com/laminlabs/bionty-assets/pull/7) | [sunnyosun](https://github.com/sunnyosun) | 2022-08-17 |
 🍱 Ingested ensembl ids table | [6](https://github.com/laminlabs/bionty-assets/pull/6) | [sunnyosun](https://github.com/sunnyosun) | 2022-08-17 |
 🍱 Ingested mouse geneset from MGI | [5](https://github.com/laminlabs/bionty-assets/pull/5) | [sunnyosun](https://github.com/sunnyosun) | 2022-08-17 |
 🍱 Migrated examples from bionty here | [4](https://github.com/laminlabs/bionty-assets/pull/4) | [sunnyosun](https://github.com/sunnyosun) | 2022-06-29 |
