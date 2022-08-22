@@ -6,10 +6,8 @@
 ```{toctree}
 :maxdepth: 1
 
-guides/index
 ingest/index
 notes/index
-examples/index
 api
 changelog
 ```
