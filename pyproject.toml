@@ -23,9 +23,7 @@ dev = [
 ]
 test = [
     "pytest>=6.0",
-    "nbmake",
-    "pronto",
-    "owlready2",
+    "pytest-cov",
 ]
 
 [tool.black]
