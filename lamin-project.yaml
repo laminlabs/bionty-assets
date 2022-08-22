@@ -1,5 +1,5 @@
 project_name: Bionty Assets
-description: Manage data assets for the Bionty API
+description: Data assets for Bionty
 project_slug: bionty-assets
 repository_name: bionty-assets
 package_name: bionty_assets

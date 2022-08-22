@@ -1,3 +1,3 @@
-# Bionty Assets: Manage data assets for the Bionty API
+# Bionty Assets: Data assets for Bionty
 
 Read the [docs](https://lamin.ai/docs/bionty-assets).
