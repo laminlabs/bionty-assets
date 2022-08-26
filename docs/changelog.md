@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | Developer | Date | Version
 --- | --- | --- | --- | ---
+✨ Ingested human CellMarker | [9](https://github.com/laminlabs/bionty-assets/pull/9) | [sunnyosun](https://github.com/sunnyosun) | 2022-08-26 |
 ✨ New uniprot tables | [8](https://github.com/laminlabs/bionty-assets/pull/8) | [sunnyosun](https://github.com/sunnyosun) | 2022-08-26 |
 🍱 Added the `Gene Synonym` column | [7](https://github.com/laminlabs/bionty-assets/pull/7) | [sunnyosun](https://github.com/sunnyosun) | 2022-08-17 |
 🍱 Ingested ensembl ids table | [6](https://github.com/laminlabs/bionty-assets/pull/6) | [sunnyosun](https://github.com/sunnyosun) | 2022-08-17 |
