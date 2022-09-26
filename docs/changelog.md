@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | Developer | Date | Version
 --- | --- | --- | --- | ---
+✨ Ingested ensembl genes, uniprot, cell maker using Lamindb | [12](https://github.com/laminlabs/bionty-assets/pull/12) | [sunnyosun](https://github.com/sunnyosun) | 2022-09-26 |
 ✨ Add ids to protein and cell_marker | [11](https://github.com/laminlabs/bionty-assets/pull/11) | [sunnyosun](https://github.com/sunnyosun) | 2022-09-26 |
 ✨ Added ids to the gene table | [10](https://github.com/laminlabs/bionty-assets/pull/10) | [sunnyosun](https://github.com/sunnyosun) | 2022-09-26 |
 ✨ Ingested human CellMarker | [9](https://github.com/laminlabs/bionty-assets/pull/9) | [sunnyosun](https://github.com/sunnyosun) | 2022-08-26 |
