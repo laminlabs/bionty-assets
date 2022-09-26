@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | Developer | Date | Version
 --- | --- | --- | --- | ---
+✨ Added ids to the gene table | [10](https://github.com/laminlabs/bionty-assets/pull/10) | [sunnyosun](https://github.com/sunnyosun) | 2022-09-26 |
 ✨ Ingested human CellMarker | [9](https://github.com/laminlabs/bionty-assets/pull/9) | [sunnyosun](https://github.com/sunnyosun) | 2022-08-26 |
 ✨ New uniprot tables | [8](https://github.com/laminlabs/bionty-assets/pull/8) | [sunnyosun](https://github.com/sunnyosun) | 2022-08-26 |
 🍱 Added the `Gene Synonym` column | [7](https://github.com/laminlabs/bionty-assets/pull/7) | [sunnyosun](https://github.com/sunnyosun) | 2022-08-17 |
