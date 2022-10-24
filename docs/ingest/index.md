@@ -2,8 +2,9 @@
 
 ```{toctree}
 :maxdepth: 1
-:glob:
-:reversed:
 
-*
+connect-to-db
+ensembl-gene
+uniprot-protein
+cell-marker-human
 ```
