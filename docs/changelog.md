@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | Developer | Date | Version
 --- | --- | --- | --- | ---
+♻️ Migrated `bionty-assets.lndb` to new ids, removed deprecated nbs | [14](https://github.com/laminlabs/bionty-assets/pull/14) | [sunnyosun](https://github.com/sunnyosun) | 2022-10-24 |
 🎨 Added version and gene description to the gene tables | [13](https://github.com/laminlabs/bionty-assets/pull/13) | [sunnyosun](https://github.com/sunnyosun) | 2022-09-27 |
 ✨ Ingested ensembl genes, uniprot, cell maker using Lamindb | [12](https://github.com/laminlabs/bionty-assets/pull/12) | [sunnyosun](https://github.com/sunnyosun) | 2022-09-26 |
 ✨ Add ids to protein and cell_marker | [11](https://github.com/laminlabs/bionty-assets/pull/11) | [sunnyosun](https://github.com/sunnyosun) | 2022-09-26 |
