@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | Developer | Date | Version
 --- | --- | --- | --- | ---
+✨ Ingested ensembl species | [15](https://github.com/laminlabs/bionty-assets/pull/15) | [sunnyosun](https://github.com/sunnyosun) | 2022-10-24 |
 ♻️ Migrated `bionty-assets.lndb` to new ids, removed deprecated nbs | [14](https://github.com/laminlabs/bionty-assets/pull/14) | [sunnyosun](https://github.com/sunnyosun) | 2022-10-24 |
 🎨 Added version and gene description to the gene tables | [13](https://github.com/laminlabs/bionty-assets/pull/13) | [sunnyosun](https://github.com/sunnyosun) | 2022-09-27 |
 ✨ Ingested ensembl genes, uniprot, cell maker using Lamindb | [12](https://github.com/laminlabs/bionty-assets/pull/12) | [sunnyosun](https://github.com/sunnyosun) | 2022-09-26 |
