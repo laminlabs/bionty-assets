@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | Developer | Date | Version
 --- | --- | --- | --- | ---
+🍱 Updated protein table | [18](https://github.com/laminlabs/bionty-assets/pull/18) | [sunnyosun](https://github.com/sunnyosun) | 2022-10-25 |
 🍱 Updated cell marker table | [17](https://github.com/laminlabs/bionty-assets/pull/17) | [sunnyosun](https://github.com/sunnyosun) | 2022-10-25 |
 🍱 Updated gene table with unique bionty ids | [16](https://github.com/laminlabs/bionty-assets/pull/16) | [sunnyosun](https://github.com/sunnyosun) | 2022-10-25 |
 ✨ Ingested ensembl species | [15](https://github.com/laminlabs/bionty-assets/pull/15) | [sunnyosun](https://github.com/sunnyosun) | 2022-10-24 |
