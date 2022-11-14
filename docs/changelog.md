@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | Developer | Date | Version
 --- | --- | --- | --- | ---
+📝 Added ensembl-mysql notebook to notes | [20](https://github.com/laminlabs/bionty-assets/pull/20) | [sunnyosun](https://github.com/sunnyosun) | 2022-11-14 |
 🐛 Fixed mouse gene table | [19](https://github.com/laminlabs/bionty-assets/pull/19) | [sunnyosun](https://github.com/sunnyosun) | 2022-10-26 |
 🍱 Updated protein table | [18](https://github.com/laminlabs/bionty-assets/pull/18) | [sunnyosun](https://github.com/sunnyosun) | 2022-10-25 |
 🍱 Updated cell marker table | [17](https://github.com/laminlabs/bionty-assets/pull/17) | [sunnyosun](https://github.com/sunnyosun) | 2022-10-25 |
