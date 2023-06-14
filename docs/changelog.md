@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | Developer | Date | Version
 --- | --- | --- | --- | ---
+✨ Curated ensembl release-109 gene | [22](https://github.com/laminlabs/bionty-assets/pull/22) | [sunnyosun](https://github.com/sunnyosun) | 2023-06-14 |
 ⬆️ Upgrade to latest cookiecutter | [21](https://github.com/laminlabs/bionty-assets/pull/21) | [falexwolf](https://github.com/falexwolf) | 2023-03-21 |
 📝 Added ensembl-mysql notebook to notes | [20](https://github.com/laminlabs/bionty-assets/pull/20) | [sunnyosun](https://github.com/sunnyosun) | 2022-11-14 |
 🐛 Fixed mouse gene table | [19](https://github.com/laminlabs/bionty-assets/pull/19) | [sunnyosun](https://github.com/sunnyosun) | 2022-10-26 |
