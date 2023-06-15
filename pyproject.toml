@@ -24,7 +24,7 @@ dev = [
 test = [
     "pytest>=6.0",
     "pytest-cov",
-    "nbproject-test",
+    "nbproject_test",
 ]
 
 [tool.black]
