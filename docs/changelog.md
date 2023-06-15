@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | Developer | Date | Version
 --- | --- | --- | --- | ---
+👷 Update CI | [24](https://github.com/laminlabs/bionty-assets/pull/24) | [sunnyosun](https://github.com/sunnyosun) | 2023-06-15 |
 ✨ Curated uniprot 2023-02 | [23](https://github.com/laminlabs/bionty-assets/pull/23) | [sunnyosun](https://github.com/sunnyosun) | 2023-06-15 |
 ✨ Curated ensembl release-109 gene | [22](https://github.com/laminlabs/bionty-assets/pull/22) | [sunnyosun](https://github.com/sunnyosun) | 2023-06-14 |
 ⬆️ Upgrade to latest cookiecutter | [21](https://github.com/laminlabs/bionty-assets/pull/21) | [falexwolf](https://github.com/falexwolf) | 2023-03-21 |
