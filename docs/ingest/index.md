@@ -6,6 +6,5 @@
 gene-ensembl-release-109
 cell-marker-2.0
 protein-uniprot-2023-02
-cell-marker-human
 connect-to-db
 ```
