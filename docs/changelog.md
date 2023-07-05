@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | Developer | Date | Version
 --- | --- | --- | --- | ---
+✨ Curated clo from csv file | [28](https://github.com/laminlabs/bionty-assets/pull/28) | [sunnyosun](https://github.com/sunnyosun) | 2023-07-05 |
 🍱 Consistently convert greek to latin letters in cell marker | [27](https://github.com/laminlabs/bionty-assets/pull/27) | [sunnyosun](https://github.com/sunnyosun) | 2023-06-22 |
 🍱 Aggregated no meta names in cellmarker | [26](https://github.com/laminlabs/bionty-assets/pull/26) | [sunnyosun](https://github.com/sunnyosun) | 2023-06-17 |
 🍱 Updated cellmarker curation | [25](https://github.com/laminlabs/bionty-assets/pull/25) | [sunnyosun](https://github.com/sunnyosun) | 2023-06-16 |
