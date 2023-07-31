@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | Developer | Date | Version
 --- | --- | --- | --- | ---
+🍱 Added Gene ensembl-110 | [30](https://github.com/laminlabs/bionty-assets/pull/30) | [sunnyosun](https://github.com/sunnyosun) | 2023-07-31 |
 🍱 Added uniprot 2023-03 | [29](https://github.com/laminlabs/bionty-assets/pull/29) | [sunnyosun](https://github.com/sunnyosun) | 2023-07-18 |
 ✨ Curated clo from csv file | [28](https://github.com/laminlabs/bionty-assets/pull/28) | [sunnyosun](https://github.com/sunnyosun) | 2023-07-05 |
 🍱 Consistently convert greek to latin letters in cell marker | [27](https://github.com/laminlabs/bionty-assets/pull/27) | [sunnyosun](https://github.com/sunnyosun) | 2023-06-22 |
