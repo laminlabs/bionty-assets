@@ -3,6 +3,7 @@
 ```{toctree}
 :maxdepth: 1
 
+laminlabs-bionty-assets
 cell_line-clo-2022-03
 gene-ensembl-release-110
 gene-ensembl-release-109
