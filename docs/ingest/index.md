@@ -3,6 +3,7 @@
 ```{toctree}
 :maxdepth: 1
 
+organism-ncbitaxon-2023-06-20
 laminlabs-bionty-assets
 cell_line-clo-2022-03
 gene-ensembl-release-110
