@@ -21,6 +21,7 @@ Home = "https://github.com/laminlabs/bionty-assets"
 dev = [
     "pre-commit",
     "nox",
+    "laminci"
 ]
 test = [
     "pytest>=6.0",
