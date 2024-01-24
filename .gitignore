@@ -112,3 +112,6 @@ docs/conf.py
 *.feather
 *.parquet
 *.gz
+*xlsx
+
+node_modules
