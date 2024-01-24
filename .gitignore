@@ -113,3 +113,5 @@ docs/conf.py
 *.parquet
 *.gz
 *xlsx
+
+node_modules
