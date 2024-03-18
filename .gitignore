@@ -112,6 +112,10 @@ docs/conf.py
 *.feather
 *.parquet
 *.gz
-*xlsx
+*.csv
+*.tsv
+*.xml
+*.txt
+*.xlsx
 
 node_modules
