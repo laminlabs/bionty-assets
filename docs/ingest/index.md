@@ -12,6 +12,7 @@ cell-marker-2.0
 protein-uniprot-2023-03
 protein-uniprot-2023-02
 biosample-ncbi-2023-09
+icd-10-2024-04
 icd-11-2023-01
 connect-to-db
 ```
