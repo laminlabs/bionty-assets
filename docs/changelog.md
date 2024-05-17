@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | Developer | Date | Version
 --- | --- | --- | --- | ---
+Add more version statistics | [35](https://github.com/laminlabs/bionty-assets/pull/35) | [Zethson](https://github.com/Zethson) | 2024-05-17 |
 Add gene ensembl 111 and 112 | [33](https://github.com/laminlabs/bionty-assets/pull/33) | [Zethson](https://github.com/Zethson) | 2024-05-16 |
 Add ICD 10 XML -> CSV script | [32](https://github.com/laminlabs/bionty-assets/pull/32) | [Zethson](https://github.com/Zethson) | 2024-03-18 |
 Add ICD 11 preparation script | [31](https://github.com/laminlabs/bionty-assets/pull/31) | [Zethson](https://github.com/Zethson) | 2024-01-24 |
