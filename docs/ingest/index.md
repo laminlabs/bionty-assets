@@ -3,6 +3,7 @@
 ```{toctree}
 :maxdepth: 1
 
+protein-uniprot-2024-03
 organism-ncbitaxon-2023-06-20
 laminlabs-bionty-assets
 cell_line-clo-2022-03
@@ -16,5 +17,5 @@ protein-uniprot-2023-02
 biosample-ncbi-2023-09
 icd-10-2024-04
 icd-11-2023-01
-connect-to-db
+initial-lamindb-instance
 ```
