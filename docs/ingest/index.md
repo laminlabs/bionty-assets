@@ -4,8 +4,8 @@
 :maxdepth: 1
 
 protein-uniprot-2024-03
+initial-lamindb-instance
 organism-ncbitaxon-2023-06-20
-laminlabs-bionty-assets
 cell_line-clo-2022-03
 gene-ensembl-release-109
 gene-ensembl-release-110
@@ -17,5 +17,4 @@ protein-uniprot-2023-02
 biosample-ncbi-2023-09
 icd-10-2024-04
 icd-11-2023-01
-initial-lamindb-instance
 ```
