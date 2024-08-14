@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | Developer | Date | Version
 --- | --- | --- | --- | ---
+🍱 Bionty-assets instance is back | [37](https://github.com/laminlabs/bionty-assets/pull/37) | [sunnyosun](https://github.com/sunnyosun) | 2024-08-14 |
 ✨ Uniprot 2024-03 | [36](https://github.com/laminlabs/bionty-assets/pull/36) | [sunnyosun](https://github.com/sunnyosun) | 2024-07-18 |
 Add more version statistics | [35](https://github.com/laminlabs/bionty-assets/pull/35) | [Zethson](https://github.com/Zethson) | 2024-05-17 |
 Add gene ensembl 111 and 112 | [33](https://github.com/laminlabs/bionty-assets/pull/33) | [Zethson](https://github.com/Zethson) | 2024-05-16 |
