@@ -3,7 +3,7 @@
 ```{toctree}
 :maxdepth: 1
 
-drug-chevi-2024-07-27
+drug-chebi-2024-07-27
 protein-uniprot-2024-03
 initial-lamindb-instance
 organism-ncbitaxon-2023-06-20
