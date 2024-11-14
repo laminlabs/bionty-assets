@@ -13,6 +13,7 @@ gene-ensembl-release-109
 gene-ensembl-release-110
 gene-ensembl-release-111
 gene-ensembl-release-112
+plant-gene-ensembml-release-57
 cell-marker-2.0
 protein-uniprot-2023-03
 protein-uniprot-2023-02
