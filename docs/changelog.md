@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 Name | PR | Developer | Date | Version
 --- | --- | --- | --- | ---
+Fix Ontology import | [43](https://github.com/laminlabs/bionty-assets/pull/43) | [Zethson](https://github.com/Zethson) | 2025-08-07 |
 Add Organism 2025-03-13 | [42](https://github.com/laminlabs/bionty-assets/pull/42) | [Zethson](https://github.com/Zethson) | 2025-08-07 |
 Add depmap ingestion script | [39](https://github.com/laminlabs/bionty-assets/pull/39) | [Zethson](https://github.com/Zethson) | 2024-08-21 |
 ✨Add chebi/chembl 2024-07-27 | [38](https://github.com/laminlabs/bionty-assets/pull/38) | [Zethson](https://github.com/Zethson) | 2024-08-20 |
