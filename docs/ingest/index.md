@@ -8,6 +8,7 @@ drug-chebi-2024-07-27
 protein-uniprot-2024-03
 initial-lamindb-instance
 organism-ncbitaxon-2023-06-20
+organism-ncbitaxon-2025-03-13
 cell_line-clo-2022-03
 gene-ensembl-release-109
 gene-ensembl-release-110
