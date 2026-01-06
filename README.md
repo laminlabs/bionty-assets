@@ -1,3 +1,3 @@
-# Bionty Assets: Data assets for Bionty
+⚠️ The curation notebooks are now tracked here: https://lamin.ai/laminlabs/bionty-assets/transforms
 
-Read the [docs](https://lamin.ai/docs/bionty-assets).
+# Bionty Assets: Data assets for Bionty
